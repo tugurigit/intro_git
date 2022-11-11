@@ -1,0 +1,12 @@
+git add <filename> -> git commit -> git push
+
+  全部ステージングエリアに追加
+    git add.
+
+  何の変更をしたかわかる
+    git commit -v 
+
+  削除するときは
+    git rm <filename> 
+    の後
+    git commit する
