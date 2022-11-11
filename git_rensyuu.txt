@@ -1,1 +1,4 @@
 git training
+  git add
+  git commit
+  
