@@ -3,4 +3,5 @@ git training
   git commit
   git rm 
   git diff
+  git push
   
